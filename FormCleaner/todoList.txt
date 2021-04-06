@@ -1,0 +1,5 @@
+input form todo list:
+1. add an hours question for the google form
+2. Make sure that prints
+3. Print to a text file, make sure it is formatted correctly
+4. make and send explanatory video to shannon

@@ -1,0 +1,124 @@
+STATUS REPORT:
+
+Gavin Jones: 
+	hourLimit-> 10
+	HoursAssigned-> 0
+   Minimum Met? NO, FAILED BY 8 HOURS
+MinLimit 8
+Quinn Blackley: 
+	hourLimit-> 15
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 10
+Megan Smith: 
+	hourLimit-> 6
+	HoursAssigned-> 4
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 8
+Madeleine Anderson: 
+	hourLimit-> 8
+	HoursAssigned-> 4
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 8
+Andrea Palmer: 
+	hourLimit-> 20
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 10
+Madilyn Abbe: 
+	hourLimit-> 15
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 10
+Thomas De Groff: 
+	hourLimit-> 17
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 10
+Hannah Uffens: 
+	hourLimit-> 15
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 4 HOURS
+MinLimit 10
+Abby Larkins: 
+	hourLimit-> 10
+	HoursAssigned-> 5
+   Minimum Met? NO, FAILED BY 3 HOURS
+MinLimit 8
+Brooklyn Hughes: 
+	hourLimit-> 10
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 8
+Luke Beckstrand: 
+	hourLimit-> 10
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 8
+Gavin Wride: 
+	hourLimit-> 20
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Braeden Neale: 
+	hourLimit-> 8
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 8
+Emma Valentine: 
+	hourLimit-> 15
+	HoursAssigned-> 6
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 8
+Isaac Richards: 
+	hourLimit-> 20
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Leanne Chun: 
+	hourLimit-> 25
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+ReAnn Mahler: 
+	hourLimit-> 30
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Rebecca Varnell: 
+	hourLimit-> 15
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Makoto Hunter: 
+	hourLimit-> 25
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Katherine Miller: 
+	hourLimit-> 20
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Corinne Murdock: 
+	hourLimit-> 18
+	HoursAssigned-> 8
+   Minimum Met? NO, FAILED BY 2 HOURS
+MinLimit 10
+Abigail Wadsworth: 
+	hourLimit-> 10
+	HoursAssigned-> 7
+   Minimum Met? NO, FAILED BY 1 HOURS
+MinLimit 8
+Stefani Stewart: 
+	hourLimit-> 10
+	HoursAssigned-> 7
+   Minimum Met? NO, FAILED BY 1 HOURS
+MinLimit 8
+
+
+Final minCount = 0/23 === 0%
+Final eightCount = 8/23 === 0.35%
+Number of Slots = 164
+Assigned # 145
+Slots left: 19

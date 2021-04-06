@@ -1,7 +1,6 @@
-REQUEST="Winter2021.txt"
+REQUEST="Sp2021.txt"
 SETUP="structure.txt"
-SCHEDULE="zschedule.txt"
-STATUS="zstatus.txt"
+SCHEDULE="Sp2021Schedule.csv"
+STATUS="Sp2021StatusReport.txt"
 
-./a.out $REQUEST $SETUP $SCHEDULE $STATUS
-
+./scheduler $REQUEST $SETUP $SCHEDULE $STATUS
